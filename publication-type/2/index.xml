@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | </title>
+    <link>/publication-type/2/</link>
+      <atom:link href="/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>2</title>
+      <link>/publication-type/2/</link>
+    </image>
+    
+    <item>
+      <title>Multimodal Dynamic Brain Connectivity Analysis Based on Graph Signal Processing for Former Athletes With History of Multiple Concussions</title>
+      <link>/publication/sihag-2020-multimodal/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/sihag-2020-multimodal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Secure Estimation under Causative Attacks</title>
+      <link>/publication/sihag-2020-secure/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/sihag-2020-secure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Non-linear state recovery in power system under bad data and cyber attacks</title>
+      <link>/publication/tajer-2019-non/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/tajer-2019-non/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimal Network Parameter Estimation: Single-Shot Exchange of Local Decisions</title>
+      <link>/publication/sihag-2019-optimal/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/sihag-2019-optimal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Power system state estimation under model uncertainty</title>
+      <link>/publication/sihag-2018-power/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/sihag-2018-power/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

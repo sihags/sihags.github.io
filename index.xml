@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <link>/</link>
+      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <description></description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 30 May 2020 22:11:26 -0400</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title></title>
+      <link>/</link>
+    </image>
+    
+    <item>
+      <title>Secure Inference in Data Models</title>
+      <link>/project/project2/</link>
+      <pubDate>Sat, 30 May 2020 22:11:26 -0400</pubDate>
+      <guid>/project/project2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multimodal Dynamic Brain Connectivity Analysis Based on Graph Signal Processing for Former Athletes With History of Multiple Concussions</title>
+      <link>/publication/sihag-2020-multimodal/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/sihag-2020-multimodal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Secure Estimation under Causative Attacks</title>
+      <link>/publication/sihag-2020-secure/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/sihag-2020-secure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GSP Analysis of Brain Imaging Data from Athletes with History of Multiple Concussions</title>
+      <link>/publication/sihag-2019-gsp/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/sihag-2019-gsp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Non-linear state recovery in power system under bad data and cyber attacks</title>
+      <link>/publication/tajer-2019-non/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/tajer-2019-non/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimal Network Parameter Estimation: Single-Shot Exchange of Local Decisions</title>
+      <link>/publication/sihag-2019-optimal/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/sihag-2019-optimal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sample complexity of joint structure learning</title>
+      <link>/publication/sihag-2019-sample/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/sihag-2019-sample/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Structure Learning of Similar Ising Models: Information-theoretic Bounds</title>
+      <link>/publication/sihag-2019-structure-2/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/sihag-2019-structure-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Structure Learning with Side Information: Sample Complexity</title>
+      <link>/publication/sihag-2019-structure/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/sihag-2019-structure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distributed Estimation Under Network Model Uncertainty</title>
+      <link>/publication/sihag-2018-distributed/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/sihag-2018-distributed/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Non-linear state estimation in power systems under model uncertainty</title>
+      <link>/publication/sihag-2018-non/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/sihag-2018-non/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Power system state estimation under model uncertainty</title>
+      <link>/publication/sihag-2018-power/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/sihag-2018-power/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scalable Network Parameter Estimation in the Presence of Anomalies</title>
+      <link>/publication/sihag-2018-scalable/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/sihag-2018-scalable/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sequential estimation of distributed parameters in networks</title>
+      <link>/publication/sihag-2018-sequential/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/sihag-2018-sequential/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Secure parameter estimation: Fundamental tradeoffs</title>
+      <link>/publication/sihag-2017-secure/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/sihag-2017-secure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Graph Signal Processing based Data Analysis of Brain Structure-Functional Networks</title>
+      <link>/project/project3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/project/project3/</guid>
+      <description>&lt;p&gt;Dynamic brain functional connectivity analysis of structure/function data from TBI patients and prediction model for age and blood biomarkers based on graph filtered functional signals&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Structure Learning in Graphical Models</title>
+      <link>/project/project1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/project/project1/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

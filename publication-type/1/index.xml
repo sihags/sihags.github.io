@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 | </title>
+    <link>/publication-type/1/</link>
+      <atom:link href="/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
+    <description>1</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>1</title>
+      <link>/publication-type/1/</link>
+    </image>
+    
+    <item>
+      <title>GSP Analysis of Brain Imaging Data from Athletes with History of Multiple Concussions</title>
+      <link>/publication/sihag-2019-gsp/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/sihag-2019-gsp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sample complexity of joint structure learning</title>
+      <link>/publication/sihag-2019-sample/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/sihag-2019-sample/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Structure Learning of Similar Ising Models: Information-theoretic Bounds</title>
+      <link>/publication/sihag-2019-structure-2/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/sihag-2019-structure-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Structure Learning with Side Information: Sample Complexity</title>
+      <link>/publication/sihag-2019-structure/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/sihag-2019-structure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distributed Estimation Under Network Model Uncertainty</title>
+      <link>/publication/sihag-2018-distributed/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/sihag-2018-distributed/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Non-linear state estimation in power systems under model uncertainty</title>
+      <link>/publication/sihag-2018-non/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/sihag-2018-non/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scalable Network Parameter Estimation in the Presence of Anomalies</title>
+      <link>/publication/sihag-2018-scalable/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/sihag-2018-scalable/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sequential estimation of distributed parameters in networks</title>
+      <link>/publication/sihag-2018-sequential/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/sihag-2018-sequential/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Secure parameter estimation: Fundamental tradeoffs</title>
+      <link>/publication/sihag-2017-secure/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/sihag-2017-secure/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
